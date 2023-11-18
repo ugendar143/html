@@ -1,0 +1,19 @@
+.button1{
+    background-color: whitesmoke;
+    color: black;
+    width: 150px;
+    height: 60px;
+    border: none;
+    font-size: 20px;
+    outline: none;
+}
+.button2{
+    background-color: whitesmoke;
+    color: black;
+    width: 200px;
+    height: 60px;
+    border: none;
+    font-size: 20px;
+    outline: none;
+
+}
